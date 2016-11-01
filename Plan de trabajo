@@ -1,0 +1,11 @@
+1- Login
+2- Crear usuario
+3- Administrador:
+	CRUD administrador
+	Cosas
+4- Funcionalidades del usuario
+5- Bootstrap
+
+
+Eliminar un usuario implica eliminar las reservas hechas por ese usuario
+Sise borra unn espectaculo se den borrar las reservas de ese espectaculo
